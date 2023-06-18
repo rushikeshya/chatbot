@@ -1,5 +1,5 @@
 # chatbot
-I create a chat bot using the python language
+I created a chatbot using the Python language
 
 Project roadmap:-
 1. Importing necessary modules
