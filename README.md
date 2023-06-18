@@ -6,7 +6,7 @@ Project roadmap:-
 
 2. Setting up the OpenAI API key
   
-3. Creating the GUI:
+3. Creating the GUI
 
 4. Implementing the chatbot functionality
 
