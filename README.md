@@ -12,4 +12,4 @@ Project roadmap:-
 
 5. Creating the GUI elements
 
-6. Running the main event loop:
+6. Running the main event loop
